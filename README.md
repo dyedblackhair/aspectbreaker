@@ -9,5 +9,4 @@ pillow
 python aspectbreaker.py --ratio 4:3 perdak.jpg
 python aspectbreaker.py --ratio 1:1 perdak.jpg
 
-че получилось
-ориг
+примеры в репо
